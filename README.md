@@ -11,5 +11,5 @@ The demo video can be found here: https://www.youtube.com/watch?v=Sd6UzUAgE90
 
 
 Video of the Retro Demo
-![video](<iframe width="560" height="315" src="https://www.youtube.com/embed/Sd6UzUAgE90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[![Demo Video](http://corenety.com/games/retrodemo.png)](https://www.youtube.com/watch?v=Sd6UzUAgE90)
 
