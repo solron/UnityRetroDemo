@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: 930529b9b8a3849ddaeeefccd07f46a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8731533274336458182
+    second: C64-Spritesheet2_0
+  - first:
+      213: -2591777386187748764
+    second: C64-Spritesheet2_1
+  - first:
+      213: -768370700195141257
+    second: C64-Spritesheet2_2
+  - first:
+      213: -8474240595433302137
+    second: C64-Spritesheet2_3
+  - first:
+      213: 4086449929617516720
+    second: C64-Spritesheet2_4
+  - first:
+      213: -3850905841433448464
+    second: C64-Spritesheet2_5
+  - first:
+      213: 6072693758633550923
+    second: C64-Spritesheet2_6
+  - first:
+      213: 7497152278842847222
+    second: C64-Spritesheet2_7
+  - first:
+      213: -1573564392398506292
+    second: C64-Spritesheet2_8
+  - first:
+      213: -2334718485146510778
+    second: C64-Spritesheet2_9
+  - first:
+      213: -5890666634962253731
+    second: C64-Spritesheet2_10
+  - first:
+      213: -2955743163659810942
+    second: C64-Spritesheet2_11
+  - first:
+      213: -4554963624398320024
+    second: C64-Spritesheet2_12
+  - first:
+      213: 8961606229436588429
+    second: C64-Spritesheet2_13
+  - first:
+      213: -5939554156107288646
+    second: C64-Spritesheet2_14
+  - first:
+      213: 8041551885409903
+    second: C64-Spritesheet2_15
+  - first:
+      213: -7839484789907367855
+    second: C64-Spritesheet2_16
+  - first:
+      213: 4366726648747912029
+    second: C64-Spritesheet2_17
+  - first:
+      213: 1985061859504672049
+    second: C64-Spritesheet2_18
+  - first:
+      213: 8771394089671931912
+    second: C64-Spritesheet2_19
+  - first:
+      213: 2895846093735685033
+    second: C64-Spritesheet2_20
+  - first:
+      213: -7461061195000542940
+    second: C64-Spritesheet2_21
+  - first:
+      213: -4511584860525697386
+    second: C64-Spritesheet2_22
+  - first:
+      213: 2097007440358564987
+    second: C64-Spritesheet2_23
+  - first:
+      213: -2151205965635047350
+    second: C64-Spritesheet2_24
+  - first:
+      213: -265079253027503552
+    second: C64-Spritesheet2_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: C64-Spritesheet2_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 524
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b96cf73d8384faaba46aec0c9f1e2d
+      internalID: -8731533274336458182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 524
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fe4dc5aab244919b0afe3667d2e635
+      internalID: -2591777386187748764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 524
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47a8123d2bb74836a9fd561e85b285a
+      internalID: -768370700195141257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 524
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee40326a89ead46558387a24b274f265
+      internalID: -8474240595433302137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 524
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ecf3a7571434721ab61c65413a6c9c
+      internalID: 4086449929617516720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 524
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401daf88e071c497898f25357ed8c376
+      internalID: -3850905841433448464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_6
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 524
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18292a7c9eb4a472c861675b8d740998
+      internalID: 6072693758633550923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_7
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 524
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf4a54fcf6a94c3c8eefa9de1df2e2b
+      internalID: 7497152278842847222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_8
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 524
+        width: 79
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf80966d3780f41998941d863cad5cf2
+      internalID: -1573564392398506292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_9
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 524
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3657c0a78fe4a418192a7ffb0de89f11
+      internalID: -2334718485146510778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 284
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b162adb94e224591a968945716fdf5c
+      internalID: -5890666634962253731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 284
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05d45b3d2e864edf9596a55ac1b805e
+      internalID: -2955743163659810942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 284
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c014170247426c867c62e22bc3a61
+      internalID: -4554963624398320024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_13
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 284
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a91a16d950ee457e839fbee1793d6d0
+      internalID: 8961606229436588429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 284
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58f9bc5acbae4ac4b96ae268a3ba3b5
+      internalID: -5939554156107288646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 284
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebf4a6e7b00844e7b6bbf382518ac1f
+      internalID: 8041551885409903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_16
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 284
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feca843a5d8a473c8d8e7513156a9e0
+      internalID: -7839484789907367855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_17
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 284
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ccfb6998b134ffb8f7e5caaaa9c681
+      internalID: 4366726648747912029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_18
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 284
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7995a6510d8274213a31a57b656dbc4a
+      internalID: 1985061859504672049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_19
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 284
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d35cf68e168e4c758e8faee74526b4e
+      internalID: 8771394089671931912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 44
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ca8562ecde34b6ab915a2896ebaeb5
+      internalID: 2895846093735685033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 44
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37c3589b1f74ec4ba6ee2dd5770486
+      internalID: -7461061195000542940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 44
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0e347055034471b8e62e4797c0ba7
+      internalID: -4511584860525697386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 44
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1232f9639064f455f8126ee17ed8d9b1
+      internalID: 2097007440358564987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_24
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 44
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83abb961e6b344e6f97a9a2669e4b711
+      internalID: -2151205965635047350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C64-Spritesheet2_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 44
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece1386f2ba8c4d49b66afa087047efe
+      internalID: -265079253027503552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4e90dadbe54fc4ebc84464e3dd4ede4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
